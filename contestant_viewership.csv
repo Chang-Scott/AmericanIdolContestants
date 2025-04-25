@@ -97,11 +97,11 @@ season,place,contestant,gender,total_viewership_millions
 3,7,Jennifer Hudson,Female,322.59999999999997
 3,8,Jon Peter Lewis,Male,276.9
 3,9,Camile Velasco,Female,236.19999999999996
-4,1,Carrie Underwood,Female,813.2
-4,10,Jessica Sierra,Female,380.99999999999994
-4,11,Mikalah Gordon,Female,306.09999999999997
-4,12,Lindsey Cardinale,Female,237.39999999999998
-4,13,Mario Vazquez,Male,230.29999999999998
+4,1,Carrie Underwood,Female,742.2
+4,10,Jessica Sierra,Female,333.8999999999999
+4,11,Mikalah Gordon,Female,282.59999999999997
+4,12,Lindsey Cardinale,Female,213.89999999999998
+4,13,Mario Vazquez,Male,202.0
 4,14–16,Amanda Avila,Female,160.8
 4,14–16,Janay Castine,Female,160.8
 4,14–16,Travis Tucker,Male,148.9
@@ -109,22 +109,22 @@ season,place,contestant,gender,total_viewership_millions
 4,17–20,Celina Rae,Female,106.2
 4,17–20,David Brown,Male,98.10000000000001
 4,17–20,Joseph Murena,Male,98.10000000000001
-4,2,Bo Bice,Male,813.2
+4,2,Bo Bice,Male,730.3
 4,21–24,Melinda Lira,Female,77.89999999999999
 4,21–24,Sarah Mather,Female,77.89999999999999
 4,21–24,Jared Yates,Male,74.6
 4,21–24,Judd Harris,Male,74.6
-4,3,Vonzell Solomon,Female,754.8
-4,4,Anthony Fedorov,Male,701.9
-4,5,Scott Savol,Male,650.5999999999999
-4,6,Constantine Maroulis,Male,600.8
-4,7,Anwar Robinson,Male,550.9000000000001
-4,8,Nadia Turner,Female,504.1
-4,9,Nikko Smith,Male,425.8
-5,1,Taylor Hicks,Male,897.2099999999999
-5,10,Lisa Tucker,Female,407.74
-5,11,Kevin Covais,Male,320.1
-5,12,Melissa McGhee,Female,257.69
+4,3,Vonzell Solomon,Female,683.8000000000001
+4,4,Anthony Fedorov,Male,619.0
+4,5,Scott Savol,Male,567.6999999999999
+4,6,Constantine Maroulis,Male,517.9
+4,7,Anwar Robinson,Male,468.0
+4,8,Nadia Turner,Female,433.1
+4,9,Nikko Smith,Male,370.59999999999997
+5,1,Taylor Hicks,Male,808.4
+5,10,Lisa Tucker,Female,346.41
+5,11,Kevin Covais,Male,289.94
+5,12,Melissa McGhee,Female,226.0
 5,13–16,Ayla Brown,Female,165.14
 5,13–16,Kinnik Sky,Female,165.14
 5,13–16,Gedeon McKinney,Male,168.04
@@ -133,22 +133,22 @@ season,place,contestant,gender,total_viewership_millions
 5,17–20,Heather Cox,Female,109.94999999999999
 5,17–20,David Radford,Male,111.03
 5,17–20,"José ""Sway"" Penala",Male,111.03
-5,2,Katharine McPhee,Female,897.2099999999999
+5,2,Katharine McPhee,Female,805.5
 5,21–24,Becky O'Donohue,Female,79.78999999999999
 5,21–24,Stevie Scott,Female,79.78999999999999
 5,21–24,Bobby Bennett,Male,79.34
 5,21–24,Patrick Hall,Male,79.34
-5,3,Elliott Yamin,Male,829.05
-5,4,Chris Daughtry,Male,773.05
-5,5,Paris Bennett,Female,716.3199999999999
-5,6,Kellie Pickler,Female,658.48
-5,7,Ace Young,Male,601.5400000000001
-5,8,Bucky Covington,Male,545.47
-5,9,Mandisa,Female,462.8
-6,1,Jordin Sparks,Female,750.0
-6,10,Chris Sligh,Male,395.84
-6,11,Stephanie Edwards,Female,310.71999999999997
-6,12,Brandon Rogers,Male,253.95000000000002
+5,3,Elliott Yamin,Male,740.24
+5,4,Chris Daughtry,Male,684.24
+5,5,Paris Bennett,Female,624.61
+5,6,Kellie Pickler,Female,566.77
+5,7,Ace Young,Male,512.73
+5,8,Bucky Covington,Male,456.65999999999997
+5,9,Mandisa,Female,401.47
+6,1,Jordin Sparks,Female,661.87
+6,10,Chris Sligh,Male,335.59999999999997
+6,11,Stephanie Edwards,Female,281.19
+6,12,Brandon Rogers,Male,223.48999999999998
 6,13–16,Antonella Barba,Female,168.14000000000001
 6,13–16,Sabrina Sloan,Female,168.14000000000001
 6,13–16,Jared Cotter,Male,167.48000000000002
@@ -157,22 +157,22 @@ season,place,contestant,gender,total_viewership_millions
 6,17–20,Leslie Hunt,Female,112.07000000000001
 6,17–20,A.J. Tabaldo,Male,112.01
 6,17–20,Nicholas Pedro,Male,112.01
-6,2,Blake Lewis,Male,750.0
+6,2,Blake Lewis,Male,661.21
 6,21–24,Amy Krebs,Female,81.61
 6,21–24,Nicole Tranquillo,Female,81.61
 6,21–24,Paul Kim,Male,82.48
 6,21–24,Rudy Cardenas,Male,82.48
-6,3,Melinda Doolittle,Female,693.93
-6,4,LaKisha Jones,Female,641.65
-6,5–6,Chris Richardson,Male,587.9799999999999
-6,5–6,Phil Stacey,Male,587.9799999999999
-6,7,Sanjaya Malakar,Male,587.9799999999999
-6,8,Haley Scarnato,Female,532.5
-6,9,Gina Glocksen,Female,449.21000000000004
-7,1,David Cook,Male,799.4089999999999
-7,10,Chikezie,Male,379.534
-7,11,Amanda Overmyer,Female,300.303
-7,12,David Hernandez,Male,248.065
+6,3,Melinda Doolittle,Female,605.8000000000001
+6,4,LaKisha Jones,Female,553.5200000000001
+6,5–6,Chris Richardson,Male,499.19000000000005
+6,5–6,Phil Stacey,Male,499.19000000000005
+6,7,Sanjaya Malakar,Male,499.19000000000005
+6,8,Haley Scarnato,Female,444.37
+6,9,Gina Glocksen,Female,389.03000000000003
+7,1,David Cook,Male,714.6469999999999
+7,10,Chikezie,Male,323.096
+7,11,Amanda Overmyer,Female,271.29699999999997
+7,12,David Hernandez,Male,219.18
 7,13–16,Asia'h Epperson,Female,160.87
 7,13–16,Kady Malloy,Female,160.87
 7,13–16,Danny Noriega,Male,162.169
@@ -181,18 +181,18 @@ season,place,contestant,gender,total_viewership_millions
 7,17–20,Alexandréa Lushington,Female,106.044
 7,17–20,Jason Yeager,Male,107.204
 7,17–20,Robbie Carrico,Male,107.204
-7,2,David Archuleta,Male,799.4089999999999
+7,2,David Archuleta,Male,714.6469999999999
 7,21–24,Amy Davis,Female,77.15899999999999
 7,21–24,Joanne Borgella,Female,77.15899999999999
 7,21–24,Colton Berry,Male,78.198
 7,21–24,Garrett Haley,Male,78.198
-7,3,Syesha Mercado,Female,740.6869999999999
-7,4,Jason Castro,Male,691.0519999999998
-7,5,Brooke White,Female,646.4299999999998
-7,6,Carly Smithson,Female,598.536
-7,7,Kristy Lee Cook,Female,550.5999999999999
-7,8,Michael Johns,Male,503.615
-7,9,Ramiele Malubay,Female,430.351
+7,3,Syesha Mercado,Female,654.626
+7,4,Jason Castro,Male,606.29
+7,5,Brooke White,Female,560.369
+7,6,Carly Smithson,Female,512.475
+7,7,Kristy Lee Cook,Female,464.539
+7,8,Michael Johns,Male,418.853
+7,9,Ramiele Malubay,Female,372.753
 8,1,Kris Allen,Male,98.09
 8,10,Michael Sarver,Male,50.164
 8,11,Alexis Grace,Female,50.164
@@ -253,10 +253,10 @@ season,place,contestant,gender,total_viewership_millions
 9,7,Tim Urban,Male,83.94200000000001
 9,8–9,Katie Stevens,Female,85.22999999999999
 9,8–9,Andrew Garcia,Male,83.94200000000001
-10,1,Scotty McCreery,Male,537.29
-10,10-11,Naima Adedapo,Female,179.78
-10,10-11,Thia Megia,Female,179.78
-10,12,Karen Rodriguez,Female,179.78
+10,1,Scotty McCreery,Male,493.13000000000005
+10,10-11,Naima Adedapo,Female,158.39
+10,10-11,Thia Megia,Female,158.39
+10,12,Karen Rodriguez,Female,158.39
 10,13,Ashthon Jones,Female,116.24
 10,14-16,Kendra Chantelle,Female,69.79
 10,14-16,Jovany Barreto,Male,25.26
@@ -269,14 +269,14 @@ season,place,contestant,gender,total_viewership_millions
 10,17–24,Clint Jun Gamboa,Male,21.76
 10,17–24,Jordan Dorsey,Male,21.76
 10,17–24,Tim Halperin,Male,21.76
-10,2,Lauren Alaina,Female,537.29
-10,3,Haley Reinhart,Female,487.43
-10,4,James Durbin,Male,420.35
-10,5,Jacob Lusk,Male,374.85
-10,6,Casey Abrams,Male,332.42
-10,7,Stefano Langone,Male,290.5
-10,8,Paul McDonald,Male,247.64
-10,9,Pia Toscano,Female,224.45
+10,2,Lauren Alaina,Female,515.9
+10,3,Haley Reinhart,Female,466.04
+10,4,James Durbin,Male,376.19
+10,5,Jacob Lusk,Male,330.69000000000005
+10,6,Casey Abrams,Male,288.26000000000005
+10,7,Stefano Langone,Male,246.34
+10,8,Paul McDonald,Male,203.48000000000002
+10,9,Pia Toscano,Female,203.05999999999997
 11,1,Phillip Phillips,Male,379.05
 11,10,Erika Van Pelt,Female,120.37999999999998
 11,11,Shannon Magrane,Female,87.58999999999999
@@ -342,30 +342,30 @@ season,place,contestant,gender,total_viewership_millions
 13,7,Dexter Roberts,Male,131.57
 13,8,Malaya Watson,Female,114.85
 13,9,Majesty Rose,Female,114.85
-14,1,Nick Fradiani,Male,
-14,10–11,Adanna Duru,Female,
-14,10–11,Maddie Walker,Female,
-14,12,Sarina-Joi Crowe,Female,
-14,13–16,Alexis Gomez,Female,
-14,13–16,Loren Lott,Female,
-14,13–16,Adam Ezegelian,Male,
-14,13–16,Mark Andrew,Male,
-14,17–24,Katherine Winston,Female,
-14,17–24,Lovey James,Female,
-14,17–24,Shannon Berthiaume,Female,
-14,17–24,Shi Scott,Female,
-14,17–24,Michael Simeon,Male,
-14,17–24,Riley Bria,Male,
-14,17–24,Savion Wright,Male,
-14,17–24,Trevor Douglas,Male,
-14,2,Clark Beckham,Male,
-14,3,Jax,Female,
-14,4,Rayvon Owen,Male,
-14,5,Tyanna Jones,Female,
-14,6,Quentin Alexander,Male,
-14,7,Joey Cook,Female,
-14,8,Qaasim Middleton,Male,
-14,9,Daniel Seavey,Male,
+14,1,Nick Fradiani,Male,104.89999999999999
+14,10–11,Adanna Duru,Female,28.03
+14,10–11,Maddie Walker,Female,28.03
+14,12,Sarina-Joi Crowe,Female,28.03
+14,13–16,Alexis Gomez,Female,18.32
+14,13–16,Loren Lott,Female,18.32
+14,13–16,Adam Ezegelian,Male,28.700000000000003
+14,13–16,Mark Andrew,Male,28.700000000000003
+14,17–24,Katherine Winston,Female,9.43
+14,17–24,Lovey James,Female,9.43
+14,17–24,Shannon Berthiaume,Female,9.43
+14,17–24,Shi Scott,Female,9.43
+14,17–24,Michael Simeon,Male,19.810000000000002
+14,17–24,Riley Bria,Male,19.810000000000002
+14,17–24,Savion Wright,Male,19.810000000000002
+14,17–24,Trevor Douglas,Male,19.810000000000002
+14,2,Clark Beckham,Male,104.89999999999999
+14,3,Jax,Female,80.94
+14,4,Rayvon Owen,Male,84.39
+14,5,Tyanna Jones,Female,66.65
+14,6,Quentin Alexander,Male,69.56
+14,7,Joey Cook,Female,51.55
+14,8,Qaasim Middleton,Male,55.35000000000001
+14,9,Daniel Seavey,Male,46.870000000000005
 15,1,Trent Harmon,Male,90.35
 15,11–14,Jeneve Rose Mitchell,Female,18.12
 15,11–14,Jenn Blosil,Female,16.479999999999997
@@ -390,30 +390,29 @@ season,place,contestant,gender,total_viewership_millions
 15,7–8,Lee Jean,Male,33.94
 15,9–10,Gianna Isabella,Female,26.840000000000003
 15,9–10,Olivia Rox,Female,25.199999999999996
-15,,,,0.0
 16,1,Maddie Poppe,Female,77.92
-16,11–14,Mara Justine,Female,7.46
-16,11–14,Garrett Jacobs,Male,7.46
+16,11–14,Mara Justine,Female,20.78
+16,11–14,Garrett Jacobs,Male,20.78
 16,11–14,Jonny Brenns,Male,35.73
-16,11–14,Marcio Donaldson,Male,7.46
-16,15–24,Alyssa Raghu,Female,0.0
-16,15–24,Amelia Hammer Harris,Female,0.0
-16,15–24,Effie Passero,Female,0.0
+16,11–14,Marcio Donaldson,Male,20.78
+16,15–24,Alyssa Raghu,Female,13.32
+16,15–24,Amelia Hammer Harris,Female,13.32
+16,15–24,Effie Passero,Female,13.32
 16,15–24,Kay Kay Alexis,Female,28.269999999999996
 16,15–24,Layla Spring,Female,28.269999999999996
-16,15–24,Shannon O'Hara,Female,0.0
+16,15–24,Shannon O'Hara,Female,13.32
 16,15–24,Brandon Diaz,Male,28.269999999999996
 16,15–24,Dominique Posey,Male,28.269999999999996
-16,15–24,Ron Bultongez,Male,0.0
+16,15–24,Ron Bultongez,Male,13.32
 16,15–24,Trevor McBane,Male,28.269999999999996
 16,2,Caleb Lee Hutchinson,Male,77.92
 16,3,Gabby Barrett,Female,77.92
 16,4–5,Cade Foehner,Male,69.29
 16,4–5,Michael J. Woodard,Male,69.29
 16,6–7,Catie Turner,Female,60.760000000000005
-16,6–7,Jurnee,Female,32.49
+16,6–7,Jurnee,Female,45.809999999999995
 16,8–10,Michelle Sussett,Female,52.11
-16,8–10,Ada Vox,Male,23.84
+16,8–10,Ada Vox,Male,37.16
 16,8–10,Dennis Lorenzo,Male,52.11
 17,1,Laine Hardy,Male,67.75999999999999
 17,11–14,Ashley Hess,Female,20.71
